@@ -1,4 +1,4 @@
-![Twitter Sentiment Analysis](TwitterBanner.png)
+![Twitter Sentiment Analysis](Sentiment.png)
 
 ## Table of Contents
 - [About Project](#about-project)  
