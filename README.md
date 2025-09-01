@@ -157,7 +157,7 @@ Columns included in the dataset:
 ## Sneak Peek of the App  
 
 <p align="center">
-  <img src="Preview_Sentiment.gif" alt="Twitter Sentiment App Preview" style="width:70%;">
+  <img src="Preview05.gif" alt="Twitter Sentiment App Preview" style="width:70%;">
 </p>
 
 <p align="center"><em>Interactive Streamlit app (future extension) for live tweet sentiment predictions.</em></p>
