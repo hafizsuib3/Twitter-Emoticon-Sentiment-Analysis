@@ -129,7 +129,7 @@ Columns included in the dataset:
 - The trained pipeline can be reused for inference on unseen tweets.  
 - Artifacts are ready for deployment into a real-time system (e.g., Streamlit).  
 
-> *(You can update this section with actual F1-scores and confusion matrices once you run experiments.)*  
+
 
 ---
 
