@@ -65,7 +65,6 @@ Ultimately, the goal is to provide a **reproducible and deployable sentiment ana
   - Logistic Regression  
   - Decision Tree  
   - Random Forest  
-- *(Optional to extend: Linear SVM, MLP, XGBoost, LightGBM)*  
 
 ---
 
