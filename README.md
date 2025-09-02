@@ -72,7 +72,7 @@ Ultimately, the goal is to provide a **reproducible and deployable sentiment ana
 ## Data Source  
 
 - **Train Dataset**: `training.1600000.processed.noemoticon.csv`  
-  - 1.6M tweets labeled via emoticons.  
+  - 1.6M tweets labeled via emoticons. For faster experimentation in this project, a random sample of 200,000 tweets was used.
 - **Test Dataset**: `testdata.manual.2009.06.14.csv`  
   - A smaller manually annotated test set.  
 
