@@ -145,11 +145,8 @@ Columns included in the dataset:
 
 **Class Imbalance**  
 - Challenge: Dataset may not be perfectly balanced.  
-- Solution: Use **weighted F1-score** to account for imbalance.  
+- Solution: Use a weighted F1-score, which makes sure both the big and small groups are judged fairly. 
 
-**Reproducibility**  
-- Challenge: Random sampling leads to variability.  
-- Solution: Fix `random_state=42` in sampling and models.  
 
 ---
 
