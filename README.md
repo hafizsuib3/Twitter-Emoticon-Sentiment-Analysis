@@ -16,7 +16,7 @@
 
 ## About Project  
 
-This project trains and evaluates multiple **machine learning models** for sentiment classification of tweets, using the **Sentiment140 dataset** where labels are automatically derived from emoticons (positive `:)`, negative `:(`).  
+This project trains and evaluates multiple **machine learning models** for sentiment classification of tweets, using the **Sentiment140 dataset** where labels are automatically derived from emoticons positive & negative.  
 
 It includes:  
 - A training pipeline that preprocesses tweets, extracts features with **TF-IDF**, and benchmarks multiple models.  
